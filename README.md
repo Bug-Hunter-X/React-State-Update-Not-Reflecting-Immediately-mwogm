@@ -1,0 +1,2 @@
+# React State Update Bug
+This repository demonstrates a common issue in React applications where state updates are not immediately reflected in the UI.  The `count` variable in the `App` component fails to update synchronously after an increment. The solution shows how to resolve this using functional updates with `setCount`. 
